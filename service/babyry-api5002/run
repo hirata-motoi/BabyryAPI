@@ -2,7 +2,7 @@
 exec 2>&1
 
 PERL=/home/babyry/perl5/perlbrew/perls/perl-5.16.3/bin/perl
-DAEMON=/home/babyry/BabyryServer5002/script/babyryapi-server
+DAEMON=/home/babyry/BabyryApi5002/script/babyryapi-server
 
 exec \
   envdir ./env \
